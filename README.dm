@@ -1,4 +1,4 @@
-:: From http://corehtml5canvas.com/code-live
+## From http://corehtml5canvas.com/code-live
 
 
 This is the source code from the book Core HTML5 Canvas, published by
