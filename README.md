@@ -1,3 +1,6 @@
+:: From http://corehtml5canvas.com/code-live
+
+
 This is the source code from the book Core HTML5 Canvas, published by
 Prentice-Hall in May 2012. See LICENSE.txt for the minimal restrictions on its
 use. (Yes, you can use any of the code in commercial products as long as you're
